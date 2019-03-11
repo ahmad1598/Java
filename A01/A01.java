@@ -21,9 +21,9 @@ public class A01
       
       System.out.println("What I am willing to put into this class:");
       System.out.println("when we have goal and we wanna catch it, we should do anything "+"\n"+
-      "for that. nothing shouldn't be reason to give up. becuase of this, I'm "+"\n"+
-      "gonna do anything for programming. read the book, doing all the homwork "+"\n"+
-      "and the assignments, listen to word by word on the class to learn more."+"\n"+
+      "for it. nothing shouldn't be reason to give up. becuase of this, I'm "+"\n"+
+      "gonna do anything for programming. read the book, doing all the homework "+"\n"+
+      "and the assignments, listen to word by word in class to learn more."+"\n"+
       "trying to put my whole mind on the programming and on this class. and I will do"+"\n"+
       "any help as much as I can to my classmates");
       
