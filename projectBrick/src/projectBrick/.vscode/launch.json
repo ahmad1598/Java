@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BrickBreakerApp",
+            "request": "launch",
+            "mainClass": "projectBrick.BrickBreakerApp"
+        }
+    ]
+}
